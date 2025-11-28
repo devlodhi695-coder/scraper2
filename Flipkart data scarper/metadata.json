@@ -1,0 +1,5 @@
+{
+  "name": "Flipkart Data Scraper (Simulated)",
+  "description": "A React-based data extraction tool that simulates product scraping using Gemini AI, featuring data visualization, filtering, and CSV/JSON export.",
+  "requestFramePermissions": []
+}
